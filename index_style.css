@@ -1,5 +1,28 @@
-#bigheader { color: red; font-size: 48px; background-color: black; text-align: center; }
-#welcome { color: magenta; font-size: 36px; text-align: center; }
-#link { color: green; font-size: 24px; text-align: center; }
-#rosterpic { border-radius: 75%; display: block; margin-left: auto; margin-right: auto; width: 50%; }
-#ratpic { display: block; margin-left: auto; margin-right: auto; width: 50%; }
+#bigheader { 
+  color: red; 
+  font-size: 48px; 
+  background-color: black; 
+  text-align: center; }
+
+#welcome { 
+  color: magenta; 
+  font-size: 36px; 
+  background-color: black; 
+  text-align: center; }
+#link { 
+  color: green; 
+  font-size: 24px; 
+  text-align: center; }
+
+#rosterpic { 
+  border-radius: 50%; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 50%; }
+
+#ratpic { 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 50%; }
