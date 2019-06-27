@@ -27,7 +27,6 @@ function getMyLocation() {
 			meMarker = new google.maps.Marker({
 				position: me,
 				title: "Here I Am",
-				icon: "me.png",
 				map: map
 			});
 			map.panTo(me);
