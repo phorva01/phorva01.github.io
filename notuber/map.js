@@ -1,4 +1,3 @@
-//ALL CODE TAKEN FROM MING CHOW
 
 var myLat = 42.352271;
 var myLng = -71.05524200000001;
